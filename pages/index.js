@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello ,I'm Kyaw Zin Thant.I'am a software developer and a computer
+          Hello ,I&apos;m Kyaw Zin Thant.I&apos;am a software developer and a computer
           science enthusiastic.You can contact me on <a href="">Github</a>.
         </p>
         <p>
